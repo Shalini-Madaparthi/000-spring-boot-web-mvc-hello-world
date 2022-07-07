@@ -12,7 +12,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>000-spring-boot-web-mvc-hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>000-spring-boot-web-mvc-hello-world</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
